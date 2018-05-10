@@ -13,6 +13,9 @@
   Google- Also uses computational photography in their cameras in phones
   microsoft, facebook
   What are the important historical events/milestones in the development of this technology and why do they seem particularly note worthy?
+    -first cell phone with camera
+    -iPhone creation
+    -apple's creation of HDR
   Draw (literally or figuratively) connections between the technology you are researching and other related technology. This could include sub-categories within your research area and/or technological predecessors and/or technology which is otherwise related to your area.
   Computational zoom, panoramas, computational illumination, optics, HDR, RAISR
 
